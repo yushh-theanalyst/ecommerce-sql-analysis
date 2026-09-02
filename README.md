@@ -28,3 +28,4 @@ Transaction-level data from a UK-based online retailer, containing:
 - [MotherDuck](https://motherduck.com/) (cloud DuckDB) for running the SQL
 - Dataset sourced from Kaggle
 - [🔗 View SQL Notebook on MotherDuck](https://app.motherduck.com/notebooks/ecommerce-analysis-63d1eae2-88c2-4ea8-8dad-6fae7b3038b1?code=pI4PkGrtDtTuJfvXMHXSzXMoU0r0UAn6oeK2Trsup6KcI&state=STATE)
+- Note: Start execution from Cell 4 onwards.
